@@ -3,10 +3,10 @@
     "name"              : "ElasticSyncBasisSchulung",
     "version"           : "1.0.0",
     "webhookUrl"        : "https://t5701wqf75ra.plentymarkets-cloud01.com/rest/service/tickets",
-    "pluginIcon"        : "icon_ElasticSyncBasic_xs.png",
+    "pluginIcon"        : "icon_plugin_xs.png",
     "description"       : "Schulung zu Elastic Sync und Formatdesigner und Elastic Export.",
     "author"            : "Diana Hannes datamazing",
-    "authorIcon"        : "datamazing-xs.png",
+    "authorIcon"        : "icon_author_xs.png",
     "type"              : "service",
     "namespace"         : "ElasticSyncBasisSchulung"
 }
