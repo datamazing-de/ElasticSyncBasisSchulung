@@ -1,12 +1,12 @@
 {
   "marketplaceName": {
-    "de": "Elastic Sync Basis Schulung",
-    "en": "Elastic Sync Basis Schulung"
+    "de": "Schulung: Exporte und Importe mit plentymarkets",
+    "en": "Training: Exports and Imports with plentymarkets"
   },
-  "price": 95.2,
+  "price": 190.4,
   "shortDescription": {
-    "de": "Lerne einfache Im- und Exporte durchzuführen.",
-    "en": "Learn how to perform simple imports and exports."
+    "de": "Schnelle Hilfe für deine Datenexporte & Datenimporte. Maßgeschneiderte Lösungen garantiert!",
+    "en": "Individual help for your data exports and/or data imports. Customized solutions guaranteed!"
   },
   "categories": [
     "3889"
@@ -20,6 +20,29 @@
     "Export",
     "Formatdesigner",
     "Elastischer Export",
-    "Elastic Export"
+    "Elastic Export",
+    "Format Designer",
+    "Format",
+    "Designer",
+    "Daten",
+    "Datenimport",
+    "Datenexport",
+    "Data",
+    "Schulung",
+    "Training",
+    "Excel",
+    "Data",
+    "Artikelanlage",
+    "Controlling",
+    "Statistik",
+    "Artikelexport",
+    "Artikelimport",
+    "CSV",
+    "Exel",
+    "importieren",
+    "exportieren",
+    "Produktanlage",
+    "Produktimport",
+    "Statistics"
   ]
 }
